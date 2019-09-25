@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap");
+body {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  line-height: 1.9em;
+  color: #666;
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6 .h6 {
+  font-family: "Montserrat", sans-serif;
+  color: #060221;
+}
+
+h1 {
+  font-size: 50px;
+  line-height: 1.4em;
+}
+
+h2 {
+  font-size: 44px;
+  line-height: 1.4;
+  letter-spacing: 0;
+}
+
+h3 {
+  font-size: 32px;
+  line-height: 1.5em;
+}
+
+h4 {
+  font-size: 26px;
+  line-height: 1.6em;
+}
+
+h5 {
+  font-size: 20px;
+  line-height: 1.6em;
+}
+
+h6 {
+  font-size: 18px;
+  line-height: 1.8;
+}
+
+.sec-hed {
+  margin-top: 50px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.sec-hed h2 {
+  font-weight: 600;
+  margin-bottom: 17px;
+}
+.sec-hed p {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*# sourceMappingURL=main.css.map */
